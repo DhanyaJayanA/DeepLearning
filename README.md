@@ -1,10 +1,11 @@
 ### DeepLearning
+Deep learning is a subset of machine learning (ML), where artificial neural networks—algorithms modeled to work like the human brain—learn from large amounts of data.
 
-    1.ANN
+**Types of neural networks in deep learning**
 
-    2.CNN
-
-    3.RNN
+        1. Artificial Neural Networks (ANN)
+        2. Convolution Neural Networks (CNN)
+        3. Recurrent Neural Networks (RNN)
 
 #### Image Classification:  
   Predict the type or class of an object in an image.
@@ -13,17 +14,17 @@
   
   Output: A class label (e.g. one or more integers that are mapped to class labels)
 
-Types:
+**Types:**
 
-  1. Binary Classification - binary output, binary_crossentropy loss and sigmoid activation function.
+  1. **Binary Classification** - binary output, binary_crossentropy loss and sigmoid activation function.
   
-  2. Multi Classification - more than two output, categorical_crossentropy loss and softmax activation function.
+  2. **Multi Classification** - more than two output, categorical_crossentropy loss and softmax activation function.
   
      1. MultiClassification using CNN.
    
      2. ButterflyClassification using transfer learning MobileNetV2
      
-  3. Multilabel Classification - more than one label for a single image,  binary_crossentropy loss and  sigmoid activation function.
+  3. **Multilabel Classification** - more than one label for a single image,  binary_crossentropy loss and  sigmoid activation function.
   
      1. multilabelclassification
   
