@@ -20,15 +20,15 @@ Deep learning is a subset of machine learning (ML), where artificial neural netw
   
   2. **Multi Classification** - more than two output, categorical_crossentropy loss and softmax activation function.
   
-     1. MultiClassification using CNN.
+     1. MultiClassification using CNN. <a href="https://github.com/DhanyaJayanA/DeepLearning/blob/main/MultiClassification_CNN.ipynb">Code</a>
    
-     2. ButterflyClassification using transfer learning MobileNetV2
+     2. ButterflyClassification using transfer learning MobileNetV2. <a href="https://github.com/DhanyaJayanA/DeepLearning/blob/main/butterflyclassification.ipynb">Code</a>
      
   3. **Multilabel Classification** - more than one label for a single image,  binary_crossentropy loss and  sigmoid activation function.
   
-     1. multilabelclassification
+     1. multilabelclassification. <a href="https://github.com/DhanyaJayanA/DeepLearning/blob/main/multilabelclassification.ipynb">Code</a>
   
-     2. human-protein-atlas-image-classification
+     2. human-protein-atlas-image-classification. <a href="https://github.com/DhanyaJayanA/DeepLearning/blob/main/human-protein-atlas-image-classification.ipynb">Code</a>
 
 #### Object Localization: 
   Locate the presence of objects in an image and indicate their location with a bounding box.
@@ -36,6 +36,8 @@ Deep learning is a subset of machine learning (ML), where artificial neural netw
   Input: An image with one or more objects.
   
   Output: One or more bounding boxes (e.g. defined by a point, width, and height).
+  
+  Bounding Box. <a href="https://github.com/DhanyaJayanA/DeepLearning/blob/main/BoundingBox.ipynb">Code</a>
   
 
 #### Transfer Learning: 
